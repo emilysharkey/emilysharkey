@@ -2,9 +2,8 @@
 
 ### I'm senior at The University of Iowa majoring in Business Analytics and Business Management on the leadership track. Following graduation this May, I will be working at Collins Aerospace as an AI Interactions Engineer. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)(www.linkedin.com/in/emilysharkey1]
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://emilysharkey.me/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/emily_sharkey_)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/emilysharkey1) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://emilysharkey.me/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/emily_sharkey_)
+
 
 ---  
 
